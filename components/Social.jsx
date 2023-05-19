@@ -13,7 +13,7 @@ const Social = () => {
       </h1>
       <div className='flex justify-center mb-7 space-x-8'>
         <a
-          href='https://wa.link/4i5lfl'
+          href='https://wa.link/s5gxok'
           target='blank'
           className='cursor-pointer'>
           <RiWhatsappFill className='h-9 w-8 fill-green-700 hover:w-12 ease-in duration-150' />
