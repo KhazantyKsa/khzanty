@@ -16,9 +16,9 @@ const contactInfo = [
   },
   {
     id: 2,
-    text: "+9660565703612",
+    text: "+9660570776738",
     icon: <BsFillTelephoneFill className='m-auto' color='green' />,
-    href: "tel:+9660565703612",
+    href: "tel:+9660570776738",
   },
   {
     id: 3,
