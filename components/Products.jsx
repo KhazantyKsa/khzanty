@@ -3,14 +3,18 @@ import Image from "next/image";
 import ImgPopUp from "./popups/ImgPopUp";
 import DetailsPopUp from "./popups/DetailsPopUp";
 // Products
-import { AllProducts } from "../data/AllProducts";
-import { Beds } from "../data/Beds";
-import { Seats } from "../data/Seats";
-import { Tables } from "../data/Tables";
+// import { AllProducts } from "../data/AllProducts";
+// import { Beds } from "../data/Beds";
+// import { Seats } from "../data/Seats";
+// import { Tables } from "../data/Tables";
 import { Wardrobes } from "../data/Wardrobes";
+import { OurWorks } from "../data/OurWorks";
+OurWorks;
+// import { OurWorks } from "../data/OurWorks";
 
 // icons
 import { GiArabicDoor } from "react-icons/gi";
+import { GiHammerNails } from "react-icons/gi";
 import { FaCouch } from "react-icons/fa";
 import { MdOutlineTableBar } from "react-icons/md";
 import { BiBed, BiDetail } from "react-icons/bi";
@@ -19,14 +23,12 @@ import { ImZoomIn } from "react-icons/im";
 // Arrays
 
 const categories = [
-  { id: 1, name: "طاولات", icon: <MdOutlineTableBar />, data: Tables },
-  { id: 2, name: "مقاعد", icon: <FaCouch />, data: Seats },
-  { id: 4, name: "سراير", icon: <BiBed />, data: Beds },
-  { id: 3, name: "خزانات", icon: <GiArabicDoor />, data: Wardrobes },
+  { id: 1, name: "اعمالنا", icon: <GiHammerNails />, data: OurWorks },
+  { id: 2, name: "خزانات", icon: <GiArabicDoor />, data: Wardrobes },
 ];
 
 const Products = () => {
-  const [products, setProducts] = useState(AllProducts);
+  const [products, setProducts] = useState(Wardrobes);
 
   // image popup
   const [isImgPopupOpen, setIsImgPopupOpen] = useState(false);

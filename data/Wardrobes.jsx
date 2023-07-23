@@ -5,7 +5,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/1.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة عصرية عرض 400 سم ملابس مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#101",
@@ -16,7 +15,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/2.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة عصرية عرض 350 سم ملابس مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#102",
@@ -27,7 +25,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/3.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم صغيرة عصرية مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#103",
@@ -38,7 +35,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/4.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب سحب زجاجية عرض 250 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#104",
@@ -49,7 +45,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/5.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم مستقيمة عرض 600 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#105",
@@ -60,7 +55,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/6.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة ملابس زاوية بأبواب مفصلية عرض 200سم و 150سم  مصنوعة  بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#106",
@@ -71,7 +65,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/7.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة ملابس بأبواب سحب 190 + 190سم مصنوعة بأجود الخامات الخشبية , معالج ضد الرطوبة والبكتيريا.",
     code: "#107",
@@ -82,7 +75,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/8.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب سحب زجاجية عرض 400 سم مصنوعة بأجود الخامات الخشبية , معالج ضد الرطوبة والبكتيريا",
     code: "#108",
@@ -93,7 +85,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/9.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب سحب خشبية عرض 150سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#109",
@@ -104,7 +95,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/10.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب سحب خشبية عرض 500 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#110",
@@ -115,7 +105,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/11.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم صغيرة عصرية مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#111",
@@ -126,7 +115,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/12.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة عصرية عرض 600 سم  مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#112",
@@ -137,7 +125,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/13.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب سحب خشبية عرض 400 سم مصنوعة بأجود الخامات الخشبية , معالج ضد الرطوبة والبكتيريا",
     code: "#113",
@@ -148,7 +135,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/14.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم كاملة مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#114",
@@ -159,7 +145,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/15.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب مفصلية خشبية عرض 400 سم مصنوعة بأجود الخامات الخشبية , معالج ضد الرطوبة والبكتيريا",
     code: "#115",
@@ -170,7 +155,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/16.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم كاملة مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#116",
@@ -181,7 +165,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/17.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم صغيرة عصرية مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#117",
@@ -192,7 +175,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/18.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم عصرية مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#118",
@@ -203,7 +185,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/19.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة زاوية بأبواب سحب عرض 300سم و 250سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#119",
@@ -214,7 +195,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/20.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب سحب زجاجية عرض 400 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#120",
@@ -225,7 +205,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/21.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة صغيرة بدون باب 100 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#121",
@@ -236,7 +215,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/22.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة مقسمة لنصفين بأبواب مفصلية خشبية عرض 250 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#122",
@@ -247,7 +225,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/23.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة عصرية عرض 250 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#123",
@@ -258,7 +235,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/24.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم عصرية مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#124",
@@ -269,7 +245,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/25.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب مفصلية خشبية عرض 500 سم مصنوعة بأجود الخامات الخشبية , معالج ضد الرطوبة والبكتيريا",
     code: "#125",
@@ -280,7 +255,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/26.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم كاملة مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#126",
@@ -291,7 +265,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/27.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة عصرية عرض 300 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#127",
@@ -302,7 +275,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/28.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "دريسنج روم صغيرة عصرية مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#128",
@@ -313,7 +285,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/29.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب مفصلية خشبية عرض 500 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#129",
@@ -324,7 +295,6 @@ export const Wardrobes = [
 
     imageSrc: "/imgs/products/Wardrobes/30.jpg",
     imageAlt: "خزانه",
-    price: "$35",
     details:
       "خزانة بأبواب مفصلية خشبية عرض 300 سم مصنوعة بأجود الخامات الخشبية, معالج ضد الرطوبة والبكتيريا لتعطي اتساع ومساحة اكثر",
     code: "#130",

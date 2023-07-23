@@ -21,7 +21,7 @@ const Slider = () => {
       <div className='absolute z-10 inset-0 flex justify-center items-center bg-black bg-opacity-50'>
         <div className='text-right w-full mt-16 lg:mt-9 mr-5'>
           <h1 className='text-4xl text-white sm:text-6xl arabic-font mt-1'>
-            مرحبًا بكم في خزاننتي
+            مرحبًا بكم في خزانتي
           </h1>
           <p className='lg:mt-6 text-sm lg:text-2xl leading-8 text-gray-200'>
             نقدم خدمات التصنيع والصيانة لجميع أنواع الأثاث الخشبي
