@@ -23,15 +23,6 @@ export default function Home() {
           name='keywords'
           content='اثاث, خزانه, خزانات, مقعد, مقاعد, سرير, سراير, طاوله, طاولات, اثاث منزلي , صيانة اثاث, غرف نوم'
         />
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WJ8VH84DSP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WJ8VH84DSP');
-</script>
       </Head>
       <Slider />
       {/*components*/}
