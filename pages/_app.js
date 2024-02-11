@@ -1,5 +1,5 @@
 import '@/styles/globals.css';
-
+import Script from "next/script";
 import NavBar from '../components/NavBar';
 export default function App({ Component, pageProps })
 {
