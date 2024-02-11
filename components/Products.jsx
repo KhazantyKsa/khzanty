@@ -68,7 +68,7 @@ const Products = () => {
     const productClone = products.slice();
     shuffle(productClone);
     setProducts(productClone);
-  }, []);
+  }, [products]);
 
   return (
     <section className='bg-white' id='products'>
